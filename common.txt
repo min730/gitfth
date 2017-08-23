@@ -1,3 +1,4 @@
 fuction b()
-function a (master)
+function a (master,exp)
+function a ()
 fuction c()
