@@ -1,1 +1,2 @@
+fuction b()
 function a ()
