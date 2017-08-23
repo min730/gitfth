@@ -1,2 +1,3 @@
 fuction b()
 function a ()
+fuction c()
